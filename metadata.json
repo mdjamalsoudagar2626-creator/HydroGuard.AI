@@ -1,0 +1,8 @@
+{
+  "name": "HydroGuard AI — Smart Water Supply Monitoring & Stress Detection",
+  "description": "AI-Based Smart Water Supply Monitoring and Management System for real-time water quality telemetry, pipeline stress and leakage detection, alert workflows, and predictive maintenance reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
